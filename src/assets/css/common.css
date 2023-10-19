@@ -8,3 +8,9 @@
     display: flex;
     justify-content: space-between;
 }
+
+
+.flex-level-center {
+    display: flex;
+    align-items: center;
+}

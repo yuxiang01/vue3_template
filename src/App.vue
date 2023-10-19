@@ -1,10 +1,14 @@
-<script setup>
-</script>
+<script setup></script>
 
 <template>
-  <div>
-  </div>
+  <RouterView />
 </template>
 
-<style scoped lang="less">
+<style lang="less">
+html,
+body,
+#app {
+  height: 100%;
+  overflow: hidden;
+}
 </style>
